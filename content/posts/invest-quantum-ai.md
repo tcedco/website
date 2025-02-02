@@ -61,3 +61,7 @@ While framing this as a "cold war" helps emphasize the urgency, it's crucial to 
 As these technologies advance, the United States must develop appropriate regulatory frameworks that encourage innovation while ensuring security and ethical development. This includes standards for AI system deployment, quantum encryption protocols, and data protection requirements.
 
 The regulatory environment must remain flexible enough to adapt to rapid technological changes while providing the stability necessary for long-term investment and development. This requires close coordination between government agencies, industry leaders, and academic experts to create balanced and effective oversight mechanisms.
+
+---
+
+*Sami Elsayed is a Senior at TJHSST, and the current Lead Sysadmin at the tjCSL. He's the Co-Founder of the Cardinal Development Organization, and the current Head Writer of "The Techbook."*

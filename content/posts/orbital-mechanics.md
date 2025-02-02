@@ -64,3 +64,7 @@ Where \(M\) is the mass of the planet and \(r\) is the distance from its center.
 Orbital mechanics isn't just for planets—it’s crucial for spacecraft and satellites. Engineers must carefully calculate the right speed and altitude to place a satellite into a stable orbit. The International Space Station, for example, orbits Earth at about 7.66 km/s (17,100 mph), staying in motion due to the same physics that governs the planets.
 
 Understanding these principles allows us to send probes to distant planets, land rovers on Mars, and even predict how celestial bodies will move far into the future.
+
+---
+
+*Sami Elsayed is a Senior at TJHSST, and the current Lead Sysadmin at the tjCSL. He's the Co-Founder of the Cardinal Development Organization, and the current Head Writer of "The Techbook."*

@@ -134,3 +134,7 @@ $$
 $$  
 
 Antiderivatives are incredibly useful, not just in solving equations, but also in understanding how quantities accumulate over time. With enough practice, recognizing and computing them becomes second nature.
+
+---
+
+*Sami Elsayed is a Senior at TJHSST, and the current Lead Sysadmin at the tjCSL. He's the Co-Founder of the Cardinal Development Organization, and the current Head Writer of "The Techbook."*

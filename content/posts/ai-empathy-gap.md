@@ -26,3 +26,7 @@ Mitigating the ethical risks associated with the AI empathy gap requires a multi
 Additionally, transparency about an AI system's capabilities and limitations can empower users to make informed choices. By clearly communicating that an AI lacks true emotional understanding, companies can foster a more cautious and appropriate use of these technologies in sensitive domains. This transparency, coupled with robust regulatory oversight, can help mitigate potential harms and promote the development of systems that are more aligned with human values.
 
 These considerations underscore the need for a broader conversation about the ethical design and deployment of AI—one that goes beyond technical performance metrics to address the human dimensions of trust, care, and responsibility. As we integrate AI more deeply into our lives, it becomes imperative to recognize that machines, no matter how advanced, cannot substitute for the nuanced, empathetic support that defines humane interaction.
+
+---
+
+*Sami Elsayed is a Senior at TJHSST, and the current Lead Sysadmin at the tjCSL. He's the Co-Founder of the Cardinal Development Organization, and the current Head Writer of "The Techbook."*
